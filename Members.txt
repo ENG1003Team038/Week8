@@ -4,3 +4,9 @@ MEMBER 1 - CHEE KIN
 MEMBER 2 - ISHAN
 MEMBER 3 - MAZIN
 MEMBER 4 - SATHYA
+
+My name is Sathya Liyanage. I am 19 years old.
+ 
+Role in project: Programmer
+ 
+Preferred branch of engineering: chemical
